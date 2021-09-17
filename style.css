@@ -28,7 +28,8 @@ body::-webkit-scrollbar{
 /*Navigation*/
 
 .logo{
-	margin-top: 35px;
+	margin-top: 40px;
+	padding: 5px;
 	float: left;
 }
 
@@ -165,7 +166,9 @@ header .hero-image .photo-bg{
 
 .gif
 {
- 	margin-top:506px;
+ 	margin-top:465px;
+ 	margin-left: 100px;
+ 	float: right;
 }
 
 /*social media icons*/
