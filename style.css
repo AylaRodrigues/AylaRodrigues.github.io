@@ -28,9 +28,8 @@ body::-webkit-scrollbar{
 /*Navigation*/
 
 .logo{
-	padding: 5px;
+	margin-top: 35px;
 	float: left;
-	margin-top:20px;
 }
 
 .nav_container{
