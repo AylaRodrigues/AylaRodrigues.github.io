@@ -30,6 +30,7 @@ body::-webkit-scrollbar{
 .logo{
 	padding: 5px;
 	float: left;
+	margin-top:20px;
 }
 
 .nav_container{
