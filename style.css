@@ -12,7 +12,6 @@ body{
 	background-size:750px;
 	height:calc(100vh - 65px);
 	align-items: center;
-	cursor: url("images/cursor2.png");
 }
 
 body::-webkit-scrollbar-thumb {   
