@@ -504,7 +504,14 @@ header .hero-image .photo-bg{
 
 footer{
 	background: #000000;
-	height: 250px;
+	height: 210px;
+}
+ 
+.bottom center{
+	background: #fff;
+	padding: 5px;
+	height: 30px;
+	margin-top: 110px;
 }
 
 /*Search & close buttons*/
